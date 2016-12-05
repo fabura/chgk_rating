@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Что-то пошло не так</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+    <meta http-equiv="Content-Language" content="ru">
+</head>
+<body>
+    <blockquote>
+        <h2>Ой! Кажется где-то у нас случилась досадная ошибка.</h2>
+
+        <div>
+            Вы можете попробовать <a href="javascript:window.location=window.location;">ещё раз</a> (желательно, через некоторое время - как минимум, минут 5-10).<br />
+            <br />
+            Если это не помогло, и Вы видите это текст снова, то, пожалуйста, <a href="mailto:r-chgk@yandex.ru">напишите</a> нам письмо.
+        </div>
+
+        <div>
+        Пожалуйста, кроме прочего, укажите в тексте письма следующую информацию, чтобы нашим программистам было проще решить эту проблему:<br />
+            <span style="font-weight: bold;">Тип ошибки:</span> Assertion Error <br />
+            <span style="font-weight: bold;">Серверное время:</span> Monday 05th December 2016 01:44:30 PM <br />
+                            <span style="font-weight: bold;">Хэш ошибки:</span> 8938ff350bcc124eaf339e5de6989ac0 <br />
+                    </div>
+
+            </blockquote>
+</body>
+</html>
